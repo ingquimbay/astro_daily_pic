@@ -1,0 +1,25 @@
+{
+  "name": "astro_daily_pic",
+  "version": "1.0.0",
+  "description": "astronomy picture of the day",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingquimbay/astro_daily_pic.git"
+  },
+  "author": "carlitos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingquimbay/astro_daily_pic/issues"
+  },
+  "homepage": "https://github.com/ingquimbay/astro_daily_pic#readme"
+}
